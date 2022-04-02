@@ -3,7 +3,7 @@
 >DW1000 :  
   - good for 3 anchor and 1 tag configuration
   - Long range up to 24 meter tu de moon
-  - high data rate up to 10Hz 
+  - high sampling rate up to 60Hz 
   - position data calculation on tag
   - no safety feature when one of the anchor lost signal
 >DW1000Ng :  

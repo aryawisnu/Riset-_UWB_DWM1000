@@ -19,7 +19,7 @@
 3. Set TX Power register (0x1E) to de maxx  
   --> Giv this register value of (0x1F1F1F1FL)  
 ```
->Param for High Data Rate  
+>Param for High Sampling Rate  
 ```
 1. Set datarate => 6800kbps  
 2. Set pulseFrequency => 16MHz  
